@@ -21,7 +21,7 @@ A DevOps Engineer passionate and curious about new things, especially tech-relat
 
 1. An art portfolio on https://buithuhuong.work. Site still under construction (mostly waiting for the artist to populate data): https://github.com/AFKBETO/raiso-portfolio
 
-2. My personal Gitlab instance on https://gitlab.minhviet.cc. Mostly housing my CI/CD for now.
+2. ~~My personal Gitlab instance on https://gitlab.minhviet.cc. Mostly housing my CI/CD for now.~~ Migrated to Forgejo: https://forgejo.minhviet.cc/
 
 ## Stats
 
