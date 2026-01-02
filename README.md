@@ -29,6 +29,8 @@ A DevOps Engineer passionate and curious about new things, especially tech-relat
 
 [![AFKBETO's GitHub stats](https://github-readme-stats.minhviet.cc/api?username=AFKBETO)](https://github.com/anuraghazra/github-readme-stats)
 
+![AFKBETO's language stats](https://github-readme-stats.minhviet.cc/api/top-langs?username=AFKBETO&layout=pie&langs_count=8&hide=jupyter%20notebook,vhdl)
+
 <!--
 **AFKBETO/AFKBETO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
