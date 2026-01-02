@@ -27,7 +27,7 @@ A DevOps Engineer passionate and curious about new things, especially tech-relat
 
 ![](https://komarev.com/ghpvc/?username=AFKBETO&color=blue)
 
-[![AFKBETO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFKBETO)](https://github.com/anuraghazra/github-readme-stats)
+[![AFKBETO's GitHub stats](https://github-readme-stats.minhviet.cc/api?username=AFKBETO)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AFKBETO/AFKBETO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
